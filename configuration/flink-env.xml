@@ -60,7 +60,7 @@ jobmanager.web.port: 8081
 # The port uder which the standalone web client
 # (for job upload and submit) listens.
 
-webclient.port: 8080
+webclient.port: 8082
 
 #==============================================================================
 # Streaming state checkpointing
